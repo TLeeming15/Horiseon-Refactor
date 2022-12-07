@@ -1,66 +1,65 @@
-
+/*These CSS characteristics will apply universally to the HTML code.*/
 * {
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #ffffff;
 }
-
+/* This allows the anchor texts to not have the line under them*/
 a {
     text-decoration: none; 
 }
-
+/* This applies a specific colour code to the entire body section of the HTML*/
 body {
     background-color: #d9dcd6;
 }
-
+/*This provides padding to the header element and will allow it to stand out from the restof the website in a different colour.*/
 .header {
     padding: 20px;
     background-color: #2a607c;   
 }
-
+/*This specifies the display type and font size of the header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*This selects only the acronym SEO in the company name to stand out in a different colour*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*These styles help to position the navigation list on the page while selecting the font size*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right; 
     font-size: 20px;
 }
-
+/*Inline block will ensure this list goes in the same line horizontally. List style type none takes away any bullet pionts etc.*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
-
+/* This gives all the paragraphs on the website a universal font-size.*/
 p {
     font-size: 16px;
 }
-
+/* Here we ensure that all H2 elements will be the same size of 36px and will align on the left side*/
 h2 {
     
     font-size: 36px;
     text-align: left;
 }
-
+/* All H3 elements will instead align in the center*/
 h3 {
     text-align: center;
 }
-
+/* This is the only text that is not the same as the rest of the website, rather than giving each text the white colour we only need to specify different once.*/
 h4 {
     color: black;
 }
-
+/*This sets the positioning and size of the main image on the website.*/
 .marketing-meeting {
     height: 800px;
-    width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -76,25 +75,25 @@ h4 {
     float: right;
     margin-left: 25px;
 }
-
+/*All of the content section in the HTML will display in like block with this specifc width and margin, while the text will align to the left.*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     text-align: left;
 }
-
+/*This gives all of the images in the content section the same maximum height.*/
 .content img {
     max-height: 200px;
 }
-
+/*Here we are setting the overall aspects of the main body section in the HTML. This includes a different colour from the rest of the webesite.*/
 .main-body {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;   
 }
-
+/* These styles help to define how the benefits panel is situated onthe screen, and gives it a different colour.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,13 +104,13 @@ h4 {
     background-color: #2589bd;
     margin-bottom: 32px;   
 }
-
+/* These styles apply to all the icons in the benefits side bar. They will display in blick and importantly a max width of 150px so they dont interfere with the other elements.*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;    
 }
-
+/* Here we provide some padding forthe footer and place it in the center of the page.*/
 .footer {
     padding: 30px;
     clear: both;
