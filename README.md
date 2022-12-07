@@ -5,7 +5,7 @@
 
 While the original code for this website was mostly functional apart from a few minor bugs, the HTML and CSS was a little bit messy and long. Another major issue was that it was not following accessibility standards. Firstly,alt tags were added to all images and icons to bring the website up to standard for accessibility. A minor bug with the anchor linkss in the HTML has been fixed, so now all links work. There have pseudoelements added to the HTML to make the functionality more clear to future developers and bug fixers for the site. Lastly, there were a number of instances where CSS code was written twice. This has been consolidated to fit with the best practice codes for web developers. The refactor process was undertaken using this User Story:
 
-### As A marketing agency:
+### As marketing agency:
 * I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
