@@ -10,34 +10,34 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Problems Solved
-The website not adheres to accessibility standards. All links work, HTML pseudo elements have been added and CSS consolidated. Using the following Acceptance criteria the refactoring process has been completed:
+The website now adheres to accessibility standards. All links work, HTML pseudo elements have been added and CSS consolidated. Using the following Acceptance criteria the refactoring process has been completed:
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+#GIVEN a webpage meets accessibility standards
+#WHEN I view the source code
+#THEN I find semantic HTML elements
+#WHEN I view the structure of the HTML elements
+#THEN I find that the elements follow a logical structure independent of styling and positioning
+#WHEN I view the image elements
+#THEN I find accessible alt attributes
+#WHEN I view the heading attributes
+#THEN they fall in sequential order
+#WHEN I view the title element
+#THEN I find a concise, descriptive title
 
 ## What Did I Learn
 Through the refactoring process I was able to consilidate and build upon my knowledge of both HTML and CSS. This process has been invaluable in putting my fingers to the keyboard and theory to the test. My confidence in both HTML and CSS and their partnership has grown vastly through this project. The most important thing I learned would have to be to never write code twice. Try to think about what elements I want to have the same characteristics and use HTML ids or classes to apply these in one code chunk, rather than rewriting the same code for each element. Another area where I gained valuable confidene was in finding answers to problems along the way on my own. To do this I used google often, read documentation, and experimented using DEV tools.
 
-## Screenshots
-<img src="./assets/images/Refactor-1.jpg" alt="Horiseon Logo, Header and Marketing photo."/>
+## Usage
+You can follow the view the website here.
+<img src="Develop/assets/images/Refactor-1.jpeg" alt="Horiseon Logo, Header and Marketing photo."/>
 
-<img src="./assets/images/Refactor-2.png" alt= "Horiseon Body information."/>
+<img src="Develop/assets/images/Refactor-2.jpeg" alt= "Horiseon Body information."/>
 
-<img src="./assets/images/Refactor-3.png" alt= "Horiseon Footer"/>
- <img src="./assets/images/digital-marketing-meeting.jpg"/>
-
+<img src="Develop/assets/images/Refactor-3.jpeg" alt= "Horiseon Footer"/>
+ 
 
 ## Installation
 
 N/A
 
-## Usage
+
