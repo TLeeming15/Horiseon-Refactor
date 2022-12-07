@@ -30,11 +30,11 @@ Through the refactoring process I was able to consilidate and build upon my know
 ## Usage
 
 The following images show the completed website. You can visit the site by clicking [here.](add URL)
-<img src="Develop/assets/images/Refactor-1.jpeg" alt="Horiseon Logo, Header and Marketing photo."/>
+<img src="assets/images/Refactor-1.jpeg" alt="Horiseon Logo, Header and Marketing photo."/>
 
-<img src="Develop/assets/images/Refactor-2.jpeg" alt= "Horiseon Body information."/>
+<img src="assets/images/Refactor-2.jpeg" alt= "Horiseon Body information."/>
 
-<img src="Develop/assets/images/Refactor-3.jpeg" alt= "Horiseon Footer"/>
+<img src="assets/images/Refactor-3.jpeg" alt= "Horiseon Footer"/>
  
 
 ## Installation
