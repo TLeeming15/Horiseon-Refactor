@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -5,7 +6,7 @@
 }
 
 a {
-    text-decoration: none;
+    text-decoration: none; 
 }
 
 body {
@@ -14,8 +15,7 @@ body {
 
 .header {
     padding: 20px;
-    background-color: #2a607c;
-    
+    background-color: #2a607c;   
 }
 
 .header h1 {
@@ -34,31 +34,28 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
-
-
 
 p {
     font-size: 16px;
 }
 
 h2 {
-    margin-bottom: 20px;
+    
     font-size: 36px;
     text-align: left;
 }
 
 h3 {
-    margin-bottom: 20px;
-    margin-top: 20px;
     text-align: center;
+}
+
+h4 {
+    color: black;
 }
 
 .marketing-meeting {
