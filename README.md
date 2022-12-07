@@ -43,6 +43,8 @@ N/A
 
 ## License
 
+MIT
+
 
 
 
