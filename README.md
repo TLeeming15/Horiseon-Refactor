@@ -29,7 +29,7 @@ Through the refactoring process I was able to consilidate and build upon my know
 
 ## Usage
 
-The following images show the completed website. You can visit the site by clicking [here.](add URL)
+The following images show the completed website. You can visit the site by clicking [here.](https://tleeming15.github.io/Horiseon-Refactor/)
 <img src="assets/images/Refactor-1.jpeg" alt="Horiseon Logo, Header and Marketing photo."/>
 
 <img src="assets/images/Refactor-2.jpeg" alt= "Horiseon Body information."/>
