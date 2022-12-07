@@ -58,10 +58,9 @@ h4 {
     color: black;
 }
 /*This sets the positioning and size of the main image on the website.*/
-.marketing-meetingn {
-    height: 800px;
+.marketing-meeting {
+    width: 100%;
     margin-bottom: 25px;
-    background-image: url(https://github.com/TLeeming15/Horiseon-Refactor/blob/main/assets/images/digital-marketing-meeting.jpg);
     background-size: cover;
     background-position: center;
 }
